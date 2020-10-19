@@ -1,7 +1,7 @@
 let github = require('octonode');
 
 let repos = [
-    ''
+    'https://github.com/jonathanavilap1/WeatherApp.git'
 ];
 
 function handler(event, context, callback) {
